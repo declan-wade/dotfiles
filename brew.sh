@@ -10,10 +10,8 @@ brew install moreutils
 brew install vim
 brew install nano
 brew install grep
-
 brew install node
-
-
+brew install git
 
 # to maintain cask ....
 #     brew update && brew cleanup
@@ -32,4 +30,5 @@ brew install --cask tableplus
 brew install --cask meetingbar
 brew install --cask obsidian
 brew install --cask the-unarchiver
+brew install --cask github
 brew install --cask keepingyouawake
