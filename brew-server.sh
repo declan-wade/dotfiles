@@ -12,6 +12,7 @@ brew install nano
 brew install grep
 brew install node
 brew install git
+brew install borgbackup
 
 # to maintain cask ....
 #     brew update && brew cleanup
@@ -23,3 +24,4 @@ brew install --cask orbstack
 brew install --cask neo-network-utility
 brew install --cask jellyfin
 brew install --cask netiquette
+brew install --cask vorta
