@@ -33,3 +33,5 @@ brew install --cask the-unarchiver
 brew install --cask github
 brew install --cask keepingyouawake
 brew install --cask omnidisksweeper
+brew install --cask daisydisk
+
