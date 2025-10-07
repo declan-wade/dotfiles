@@ -30,6 +30,7 @@ brew install --cask meetingbar
 brew install --cask obsidian
 brew install --cask the-unarchiver
 brew install --cask github
+brew install --cask fmail3
 brew install --cask keepingyouawake
 brew install --cask daisydisk
 
