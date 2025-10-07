@@ -19,7 +19,7 @@ brew install borgbackup
 
 brew install --cask iterm2
 brew install --cask appcleaner
-brew install --cask omnidisksweeper
+brew install --cask daisydisk
 brew install --cask orbstack
 brew install --cask neo-network-utility
 brew install --cask jellyfin
