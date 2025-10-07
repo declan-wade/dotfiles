@@ -26,12 +26,10 @@ brew install --cask raycast
 brew install --cask claude
 brew install --cask chatgpt
 brew install --cask appcleaner
-brew install --cask tableplus
 brew install --cask meetingbar
 brew install --cask obsidian
 brew install --cask the-unarchiver
 brew install --cask github
 brew install --cask keepingyouawake
-brew install --cask omnidisksweeper
 brew install --cask daisydisk
 
